@@ -1,0 +1,29 @@
+*******************************************************************************
+*    Quick Guide to Windows Driver Installation for Citizen Photo Printers    *
+*******************************************************************************
+
+
+For best results, DO NOT CONNECT YOUR PRINTER until after driver has been 
+installed or when the installation tells you to do so.
+
+Extra the files if they are in a ZIP file to a suitable location, 
+e.g. C:\Drivers or to your Windows Desktop.   Installing directly from the ZIP
+file can cause issues on some systems.
+
+To begin the installation, double-click on DriverInstall.CMD (or just DriverInstall)
+and the driver will start.
+
+
+For Windows 10 users, after installation, you should select the ICM(I) 
+colour adjustment to give the most natural colour reproduction:-
+
+- Right-click on the printer and choose "Printing Preferences"
+- Click on the Option tab
+- Choose ICM(I) from the Color Adjustment section
+- Click Apply/OK to save.
+
+
+A detailed driver instruction manual for Windows installation is included as a PDF.  
+
+
+To get the latest drivers, please visit our website:    www.citizen.photo
